@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Analizador lexico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d41526bce0410c3cbd62f679d38c18a19dbc0622")]
 [assembly: System.Reflection.AssemblyProductAttribute("Analizador lexico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Analizador lexico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

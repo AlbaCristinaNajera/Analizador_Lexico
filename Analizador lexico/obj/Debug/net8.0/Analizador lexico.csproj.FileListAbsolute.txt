@@ -12,3 +12,4 @@ C:\Users\erica\OneDrive\Escritorio\TODO\Compiladores\Analizador lexico\Analizado
 C:\Users\erica\OneDrive\Escritorio\TODO\Compiladores\Analizador lexico\Analizador lexico\obj\Debug\net8.0\Analizador lexico.pdb
 C:\Users\erica\OneDrive\Escritorio\TODO\Compiladores\Analizador lexico\Analizador lexico\obj\Debug\net8.0\Analizador lexico.genruntimeconfig.cache
 C:\Users\erica\OneDrive\Escritorio\TODO\Compiladores\Analizador lexico\Analizador lexico\obj\Debug\net8.0\ref\Analizador lexico.dll
+C:\Users\erica\OneDrive\Escritorio\TODO\Compiladores\Analizador lexico\Analizador lexico\obj\Debug\net8.0\Analizador lexico.sourcelink.json
