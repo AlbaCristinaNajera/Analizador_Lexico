@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erica\\OneDrive\\Escritorio\\TODO\\Compiladores\\Analizador lexico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF26D99-ACAF-4F58-AADB-D3507457423A}|Analizador lexico\\Analizador lexico.csproj|c:\\users\\erica\\onedrive\\escritorio\\todo\\compiladores\\analizador lexico\\analizador lexico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF26D99-ACAF-4F58-AADB-D3507457423A}|Analizador lexico\\Analizador lexico.csproj|solutionrelative:analizador lexico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erica\\OneDrive\\Escritorio\\TODO\\Compiladores\\Analizador lexico\\Analizador lexico\\Program.cs",
+              "RelativeDocumentMoniker": "Analizador lexico\\Program.cs",
+              "ToolTip": "C:\\Users\\erica\\OneDrive\\Escritorio\\TODO\\Compiladores\\Analizador lexico\\Analizador lexico\\Program.cs*",
+              "RelativeToolTip": "Analizador lexico\\Program.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:13:19.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
